@@ -1,0 +1,22 @@
+{
+  "name": "mvc-calculator",
+  "version": "1.0.0",
+  "description": "Simple MVC calculator (add/subtract) with Node.js and EJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mvc",
+    "ejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
